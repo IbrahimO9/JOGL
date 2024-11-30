@@ -47,4 +47,4 @@ Dependencies: JOGL library files required for OpenGL rendering.
 
 Screenshots
 Here’s a preview of the Simple House with OpenGL:
-![Simple House Screenshot](example.png)
+![Simple House Screenshot](example.PNG)
